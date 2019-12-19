@@ -43,6 +43,12 @@ Illustration: widget form.
 
 Illustration: archives widget.
 
+## Alternatives
+
+https://wordpress.org/plugins/compact-archives/
+
+The fine folks at WPBeginner.com have made a plugin that creates a compact monthly archive that can be used both in regular pages and in widgets.
+
 ## TODO
 
 * Add a proper readme.txt that can be used on wordpress.org.
@@ -50,6 +56,7 @@ Illustration: archives widget.
   * Specifically: when value 0 is entered.
   * Specifically: when a non-integer value is entered.
 * Make the query for years with posts match the wp_get_archives() filters.
+* Make the default duration visible in the widget form.
 
 ## Changelog 
 
